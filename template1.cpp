@@ -1,15 +1,20 @@
-#include <bits/stdc++.h>
+// In the name of Allah
+#include <bits/stdc++.h>     // submitted by srk  
 using namespace std;
-
-#define FAST ios::sync_with_stdio(false); cin.tie(0); cout.tie(0);
-#define nl '\n'
 typedef long long ll;
+#define nl '\n'
+
+void testCase() {
+     
+}
 
 int main() {
-    
-    FAST
-    
-     
-    
-    return 0;
+  ios::sync_with_stdio(false);
+  cin.tie(nullptr);
+  int tc;
+  cin >> tc;
+  while (tc--) {
+    testCase();
+  }
+  return 0;
 }
